@@ -5,7 +5,7 @@ This day is a break day where students will have the chance to do some exercise 
 You can find every markdown file used for the subjects in the 'md' directory.
 You can find every subjects in the 'subjects' directory.
 
-This day is separated in four parts:
+* This day is separated in four parts:
     * The basics
     * The pointers
     * How to approach a subject
